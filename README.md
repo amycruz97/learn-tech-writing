@@ -1,28 +1,26 @@
-# A Self-Study Plan for Tech Writers
+# A Self-Study Plan to Learn Tech Writing
 
-If you want to become a tech writer, you need to write tech docs! However, it can be difficult to figure out how to get started and what resources to use. This project-based 30-days self-study plan will help you:
+If you want to become a tech writer, you need to write tech docs! However, I know it's difficult to figure out how to get started, what you need to learn, and what resources to use. So I created this project-based self-study plan to help you: 
 
-- Learn what is tech writing and what a tech writer's typical day looks like
-- Complete Google's Tech Writing Courses 
+- Learn what's tech writing and the tech writing process
 - Learn the common tech documents in the software industry (UI docs, user docs, developer docs)(documentation framework)
-- Learn the tech writing process
-- Write a UI document
-- Write a developer document
-- Write a reference document
-- Write a concept document
-- Familiarized yourself with industry-standard style guides
-- Learn how to look for and avoid bias in your writing
-- Created and used your GitHub account
+- Familiarize yourself with industry-standard style guides
+- Create 4 tech writing portfolio samples
+- Use GitHub and Markdown
 
-If you are a complete beginner, new tech writer, or are curious about tech writing as a career, this plan is for you. 
+Estimated time required: 4 weeks (1-2 hours per day)
 
-## About the creator of this plan
+If you are a curious about tech writing as a career or a new tech writer, this plan is for you. 
 
-Hi! I am Amruta and I work as a Staff Tech Writer in NYC. I also make YouTube videos about tech writing. 
+### Who am I?
 
-## Week 1: The Basics
+I am Amruta Ranade, the Staff Tech Writer at a distributed database startup in New York City. I have a Bachelor's degree in Electronics and a Master's degree in Technical Communication. And I [make YouTube videos about tech writing](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA). 
 
-**Day 1: An absolute beginner's introduction to technical writing** 
+Now that introductions are out of the way, let's get to the plan!
+
+## Week 1: Learn the basics
+
+**Day 1: Go through absolute beginner resources** 
 
 Resource Type | Resource 
 :-- | :--
@@ -31,11 +29,11 @@ Video | [Advice for Technical Writing Beginners](https://youtu.be/JHm3kVMITmI)
 Reddit thread | [Read this before asking about salaries, what education you need, or how to start a technical writing career](https://www.reddit.com/r/technicalwriting/comments/bomlrj/read_this_before_asking_about_salaries_what/)
 Video | [[Updated] Day in my Life as a Tech Writer](https://youtu.be/8AbBf3j0hSY)
 
-**Day 2: Google's "Tech Writing One" Course**
+**Day 2: Complete Google's "Tech Writing One" course**
 
 https://developers.google.com/tech-writing/one
 
-**Day 3: How to write a technical document**
+**Day 3: Learn how to write a technical document**
 
 Resource Type | Resource 
 :-- | :--
@@ -44,17 +42,17 @@ Video | [Audience Analysis Worksheet](https://youtu.be/TXisTiNAWyE)
 Video | [Writing the First Draft](https://youtu.be/MHOH2kgXfDc)
 Video | [Technical Editing Checklist](https://youtu.be/vpl8WaXnmMs)
 
-**Day 4: Google's "Tech Writing Two" Course**
+**Day 4: Complete Google's "Tech Writing Two" course**
 
 https://developers.google.com/tech-writing/two
 
-**Day 5: Tech skills**
+**Day 5: Learn how to learn new tech**
 
 https://youtu.be/GtjcxfO_bKI
 
 GitHub and Markdown exercises
 
-**Create your GitHub profile README**
+**Day 6: Create your GitHub profile README**
 
 **Day 7: Rest and Reflect** 
 Self-assessment, financial goals, technical proficiency parts of "Is Technical Writing the Right Career for You? 🤔" worksheet
@@ -63,7 +61,7 @@ Self-assessment, financial goals, technical proficiency parts of "Is Technical W
 
 **Day 8: Watch "Technical Writing for Non-Native English Speakers"**
 
-**Day 9: " Types of tech docs" (https://documentation.divio.com/)**
+**Day 9: "Types of tech docs" (https://documentation.divio.com/)**
 
 **Day 10: UI docs/tutorial: Draft a tutorial to create a pull request using the GitHub UI**
 
