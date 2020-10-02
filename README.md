@@ -1,6 +1,6 @@
 # A Self-Study Plan to Learn Tech Writing
 
-If you want to become a tech writer, you need to write tech docs! However, I know it's difficult to figure out how to get started, what you need to learn, and what resources to use. So I created this project-based self-study plan to help you: 
+If you want to become a tech writer, you need to write tech docs! However, it's difficult to figure out how to get started, what you need to learn, and what resources to use. So I put together this project-based self-study plan to help you: 
 
 - Learn what's tech writing and the tech writing process
 - Learn the common tech documents in the software industry (UI docs, user docs, developer docs)(documentation framework)
@@ -75,7 +75,8 @@ To get started with GitHub:
 - Make your first contribution: https://github.com/firstcontributions/first-contributions
 
 **Day 7: Rest and Reflect** 
-Self-assessment, financial goals, technical proficiency parts of "Is Technical Writing the Right Career for You? 🤔" worksheet
+
+Now that you have a basic understanding of the field, it's time to self-evaluate. Complete the "Is technical writing the right career for you" worksheet.
 
 ## Week 2: Learn types of tech docs and write a UI docs tutorial
 
