@@ -1,4 +1,4 @@
-# A Self-Study Plan for New Tech Writers
+# A Self-Study Plan for Tech Writers
 
 If you want to become a tech writer, you need to write tech docs! However, it can be difficult to figure out how to get started and what resources to use. This project-based 30-days self-study plan will help you:
 
