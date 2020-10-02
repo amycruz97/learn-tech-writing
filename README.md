@@ -5,7 +5,7 @@ If you want to become a tech writer, you need to write tech docs! However, I kno
 - Learn what's tech writing and the tech writing process
 - Learn the common tech documents in the software industry (UI docs, user docs, developer docs)(documentation framework)
 - Familiarize yourself with industry-standard style guides
-- Create 4 tech writing portfolio samples
+- Create 4 tech writing samples for your portfolio
 - Use GitHub and Markdown
 
 Estimated time required: 4 weeks (1-2 hours per day)
@@ -20,7 +20,7 @@ Now that introductions are out of the way, let's get to the plan!
 
 ## Week 1: Learn the basics
 
-**Day 1: Go through absolute beginner resources** 
+**Day 1: Go through beginner resources** 
 
 Resource Type | Resource 
 :-- | :--
@@ -29,11 +29,15 @@ Video | [Advice for Technical Writing Beginners](https://youtu.be/JHm3kVMITmI)
 Reddit thread | [Read this before asking about salaries, what education you need, or how to start a technical writing career](https://www.reddit.com/r/technicalwriting/comments/bomlrj/read_this_before_asking_about_salaries_what/)
 Video | [[Updated] Day in my Life as a Tech Writer](https://youtu.be/8AbBf3j0hSY)
 
-**Day 2: Complete Google's "Tech Writing One" course**
+**Day 2: Complete Google's "Technical Writing One" course**
 
-https://developers.google.com/tech-writing/one
+In 2015, Google developed two technical writing courses for their engineers. The courses are now available for anyone who wants to learn technical writing. 
+
+Complete the [first course ("Technical Writing One")](https://developers.google.com/tech-writing/one) that teaches the fundamentals of technical writing. 
 
 **Day 3: Learn how to write a technical document**
+
+Watch the "How to write a technical document" series on my YouTube channel. 
 
 Resource Type | Resource 
 :-- | :--
@@ -42,17 +46,33 @@ Video | [Audience Analysis Worksheet](https://youtu.be/TXisTiNAWyE)
 Video | [Writing the First Draft](https://youtu.be/MHOH2kgXfDc)
 Video | [Technical Editing Checklist](https://youtu.be/vpl8WaXnmMs)
 
-**Day 4: Complete Google's "Tech Writing Two" course**
+I know it's a lot of information but you don't have to retain all of it. You will have opportunities to revisit and practice the techniques as you work through the self-study plan.
 
-https://developers.google.com/tech-writing/two
+**Day 4: Complete Google's "Technical Writing Two" course**
 
-**Day 5: Learn how to learn new tech**
+Complete the [second course offered by Google ("Technical Writing Two")](https://developers.google.com/tech-writing/two) focuses on intermediate topics.
 
-https://youtu.be/GtjcxfO_bKI
+**Days 5 and 6: Learn how to learn new tech**
 
-GitHub and Markdown exercises
+So far, we have discussed the writing side of tech writing. Now it's time to learn the most important skill for a tech writer -- learning how to learn new tech.
 
-**Day 6: Create your GitHub profile README**
+To start with, watch the [5 ways to learn tech](https://youtu.be/GtjcxfO_bKI) video.
+
+Now comes the slightly daunting step: Learning Git and GitHub. Here's why I think tech writers should learn GitHub:
+
+- GitHub is an excellent tool to have in your tech writing toolkit. Having GitHub on your resume signals that you are comfortable learning and using technological products.
+- Although GitHub is a technically complex tool, there are literally millions of resources available to learn how to use GitHub. And as a new tech writer, you don't need to get into the complex functionality right away. You can accomplish a lot with the Desktop/browser version.
+- It is an excellent collaboration and project management tool ("Issues" and "Projects Boards")
+- It opens up the world of open source software
+
+To get started with GitHub:
+- Watch "What is Git - A Quick Introduction to the Git Version Control System": https://youtu.be/OqmSzXDrJBk
+- Watch "What is Git and GitHub?": https://youtu.be/uUuTYDg9XoI
+- Watch the "What is GitHub?" video: https://youtu.be/w3jLJU7DT5E
+- Complete the "Hello, World" tutorial: https://guides.github.com/activities/hello-world/
+- Read the "Understanding the GitHub Flow" guide: https://guides.github.com/introduction/flow/
+- Take the "Introduction to GitHub" free course: https://lab.github.com/githubtraining/introduction-to-github
+- Make your first contribution: https://github.com/firstcontributions/first-contributions
 
 **Day 7: Rest and Reflect** 
 Self-assessment, financial goals, technical proficiency parts of "Is Technical Writing the Right Career for You? 🤔" worksheet
