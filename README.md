@@ -1,6 +1,6 @@
 # Learn Tech Writing 
 
-### Week 1
+## Week 1
 
 **Day 1: An absolute beginner's introduction to technical writing** 
 
@@ -39,7 +39,7 @@ GitHub and Markdown exercises
 **Day 7: Rest and Reflect** 
 Self-assessment, financial goals, technical proficiency parts of "Is Technical Writing the Right Career for You? 🤔" worksheet
 
-### Week 2
+## Week 2
 
 **Day 8: Watch "Technical Writing for Non-Native English Speakers"**
 
@@ -65,7 +65,7 @@ Self-assessment, financial goals, technical proficiency parts of "Is Technical W
 **Day 14: Rest and Reflect:** 
 Process part of self-assessment from Good with Words (https://www.fulcrum.org/epubs/bz60cx60t?locale=en#/6/38[mup-mpsbarry-0019]!/4/2[appa]/2/6/1:0)
 
-### Week 3
+## Week 3
 
 **Day 15: Developer docs/How-to guide: Draft a how-to guide to create a pull request using the command line**
 
@@ -92,7 +92,7 @@ Process part of self-assessment from Good with Words (https://www.fulcrum.org/ep
 
 **Day 21: Rest and Reflect: Errors and Insights exercise from Good with Words**
 
-### Week 4
+## Week 4
 
 **Day 22: Reference doc: Draft an article about the commands required to create a pull request**
 
