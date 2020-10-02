@@ -4,7 +4,7 @@ If you want to become a tech writer, you need to write tech docs! However, it ca
 
 - Learn what is tech writing and what a tech writer's typical day looks like
 - Complete Google's Tech Writing Courses 
-- Learn the types of tech documents
+- Learn the common tech documents in the software industry (UI docs, user docs, developer docs)(documentation framework)
 - Learn the tech writing process
 - Write a UI document
 - Write a developer document
