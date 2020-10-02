@@ -1,6 +1,20 @@
-# Learn Tech Writing 
+# A Self-Study Plan for New Tech Writers
 
-## Week 1
+If you want to become a tech writer, you need to write tech docs! However, it can be difficult to figure out how to get started and what resources to use. This project-based 30-days self-study plan will help you:
+
+- Learn what is tech writing and what a tech writer's typical day looks like
+- Complete Google's Tech Writing Courses 
+- Learn the types of tech documents
+- Learn the tech writing process
+- Write a UI document
+- Write a developer document
+- Write a reference document
+- Write a concept document
+- Familiarized yourself with industry-standard style guides
+- Learn how to look for and avoid bias in your writing
+- Created and used your GitHub account
+
+## Week 1: The Basics
 
 **Day 1: An absolute beginner's introduction to technical writing** 
 
