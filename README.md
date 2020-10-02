@@ -65,5 +65,32 @@ Self-assessment, financial goals, technical proficiency parts of "Is Technical W
 ### Day 14: Rest and Reflect: 
 Process part of self-assessment from Good with Words (https://www.fulcrum.org/epubs/bz60cx60t?locale=en#/6/38[mup-mpsbarry-0019]!/4/2[appa]/2/6/1:0)
 
+## Week 3
+
+### Day 15: Developer docs/How-to guide: Draft a how-to guide to create a pull request using the command line
+
+### Day 16: Study the following style guides: 
+- [https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
+- All pages after [https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
+- [https://developers.google.com/style/procedures](https://developers.google.com/style/procedures)
+- [https://developers.google.com/style/code-syntax](https://developers.google.com/style/code-syntax)
+
+### Day 17: Edit your how-to guide using the style guides
+
+### Day 18: Concept doc: Draft an article about pull requests
+
+### Day 19: Study the following parts of the Google developer documentation style guide
+
+- [https://developers.google.com/style/tone](https://developers.google.com/style/tone)
+- All pages in Language and Grammar
+- All pages in Punctuation
+- [https://developers.google.com/style/headings](https://developers.google.com/style/headings)
+- [https://developers.google.com/style/lists](https://developers.google.com/style/lists)
+- [https://developers.google.com/style/notices](https://developers.google.com/style/notices)
+
+### Day 20: Edit the concept doc using the Google developer documentation style guide 
+
+### Day 21: Rest and Reflect: Errors and Insights exercise from Good with Words
+
 
 
