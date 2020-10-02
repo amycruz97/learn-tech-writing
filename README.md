@@ -14,6 +14,12 @@ If you want to become a tech writer, you need to write tech docs! However, it ca
 - Learn how to look for and avoid bias in your writing
 - Created and used your GitHub account
 
+If you are a complete beginner, new tech writer, or are curious about tech writing as a career, this plan is for you. 
+
+## About the creator of this plan
+
+Hi! I am Amruta and I work as a Staff Tech Writer in NYC. I also make YouTube videos about tech writing. 
+
 ## Week 1: The Basics
 
 **Day 1: An absolute beginner's introduction to technical writing** 
