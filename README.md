@@ -39,3 +39,31 @@ GitHub and Markdown exercises
 ### Day 7: Rest and Reflect 
 Self-assessment, financial goals, technical proficiency parts of "Is Technical Writing the Right Career for You? 🤔" worksheet
 
+## Week 2
+
+### Day 8: Watch "Technical Writing for Non-Native English Speakers"
+
+### Day 9: " Types of tech docs" (https://documentation.divio.com/)
+
+### Day 10: UI docs/tutorial: Draft a tutorial to create a pull request using the GitHub UI
+
+### Day 11: Study the following parts of the Microsoft Style Guide:
+
+- [https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human)
+- [https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
+- [https://docs.microsoft.com/en-us/style-guide/final-publishing-review](https://docs.microsoft.com/en-us/style-guide/final-publishing-review)
+- All pages in [https://docs.microsoft.com/en-us/style-guide/grammar/grammar-and-parts-of-speech](https://docs.microsoft.com/en-us/style-guide/grammar/grammar-and-parts-of-speech)
+- All pages after [https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
+- All pages in [https://docs.microsoft.com/en-us/style-guide/punctuation/](https://docs.microsoft.com/en-us/style-guide/punctuation/)
+- All pages in [https://docs.microsoft.com/en-us/style-guide/scannable-content/](https://docs.microsoft.com/en-us/style-guide/scannable-content/)
+- All pages in [https://docs.microsoft.com/en-us/style-guide/word-choice/](https://docs.microsoft.com/en-us/style-guide/word-choice/)
+
+### Day 12: Audience Analysis
+
+### Day 13: Edit your tutorial using the Microsoft style guide
+
+### Day 14: Rest and Reflect: 
+Process part of self-assessment from Good with Words (https://www.fulcrum.org/epubs/bz60cx60t?locale=en#/6/38[mup-mpsbarry-0019]!/4/2[appa]/2/6/1:0)
+
+
+
