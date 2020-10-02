@@ -80,13 +80,11 @@ Now that you have a basic understanding of the field, it's time to self-evaluate
 
 ## Week 2: Learn types of tech docs and write a UI docs tutorial
 
-**Day 8: Watch "Technical Writing for Non-Native English Speakers"**
+**Day 8: "Types of tech docs" (https://documentation.divio.com/)**
 
-**Day 9: "Types of tech docs" (https://documentation.divio.com/)**
+**Day 9: UI docs/tutorial: Draft a tutorial to create a pull request using the GitHub UI**
 
-**Day 10: UI docs/tutorial: Draft a tutorial to create a pull request using the GitHub UI**
-
-**Day 11: Study the following parts of the Microsoft Style Guide:**
+**Day 10 and 11: Study the following parts of the Microsoft Style Guide:**
 
 - [https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human)
 - [https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
@@ -145,11 +143,11 @@ https://docs.microsoft.com/en-us/style-guide/developer-content/reference-documen
 
 **Day 26: Bias-free, accessible, global writing**
 
-**Day 27: Watch "Getting Started with UX Writing and Microcopy"**
+**Day 27: Watch "Technical Writing for Non-Native English Speakers"**
 
 **Day 28: Rest and Reflect: Career goals section of "Is Technical Writing the Right Career for You? 🤔" worksheet**
 
-**Day 29:**
+**Day 29: Watch "Getting Started with UX Writing and Microcopy"**
 
 **Day 30:**
 
