@@ -92,5 +92,25 @@ Process part of self-assessment from Good with Words (https://www.fulcrum.org/ep
 
 ### Day 21: Rest and Reflect: Errors and Insights exercise from Good with Words
 
+## Week 4
 
+### Day 22: Reference doc: Draft an article about the commands required to create a pull request
+
+### Day 23: Study the following parts of the Microsoft Style Guide:
+
+https://docs.microsoft.com/en-us/style-guide/developer-content/reference-documentation
+
+### Day 24: Audience analysis
+
+### Day 25: Edit the reference doc using Microsoft Style Guide
+
+### Day 26: Bias-free, accessible, global writing
+
+### Day 27: Watch "Getting Started with UX Writing and Microcopy"
+
+### Day 28: Rest and Reflect: Career goals section of "Is Technical Writing the Right Career for You? 🤔" worksheet
+
+### Day 29:
+
+### Day 30:
 
