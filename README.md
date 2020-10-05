@@ -8,7 +8,7 @@ If you want to become a tech writer, you need to write tech docs! However, it's 
 - Create 4 tech writing samples for your portfolio
 - Use GitHub and Markdown
 
-Estimated time required: 4 weeks (1-2 hours per day)
+**Estimated time required: 4 weeks (1-2 hours per day)**
 
 If you are a curious about tech writing as a career or a new tech writer, this plan is for you. 
 
@@ -18,7 +18,7 @@ I am Amruta Ranade, the Staff Tech Writer at a distributed database startup in N
 
 Now that introductions are out of the way, let's get to the plan!
 
-## Week 1: Learn the basics
+## Week 1: What is Tech Writing + Beginner FAQs + Tech Writing Process + Introduction to GitHub
 
 **Day 1: Go through beginner resources** 
 
@@ -50,11 +50,15 @@ I know it's a lot of information but you don't have to retain all of it. You wil
 
 **Day 4: Complete Google's "Technical Writing Two" course**
 
-Complete the [second course offered by Google ("Technical Writing Two")](https://developers.google.com/tech-writing/two) focuses on intermediate topics.
+Complete the [second course offered by Google ("Technical Writing Two")](https://developers.google.com/tech-writing/two) that builds on the first course.
 
-**Days 5 and 6: Learn how to learn new tech**
+**Day 5: Learn about Divio's documentation system
 
-So far, we have discussed the writing side of tech writing. Now it's time to learn the most important skill for a tech writer -- learning how to learn new tech.
+One of my favorite tech writing resources is [Divio's documentation system](https://documentation.divio.com/). I recommend carefully studying all the sections of the system to develop helpful mental models for your technical documents.
+
+**Days 6: Learn how to learn new tech**
+
+So far, we have discussed the writing side of tech writing. Now it's time to discuss the most important skill for a tech writer -- learning how to learn new tech.
 
 To start with, watch the [5 ways to learn tech](https://youtu.be/GtjcxfO_bKI) video.
 
@@ -71,20 +75,36 @@ To get started with GitHub:
 - Watch the "What is GitHub?" video: https://youtu.be/w3jLJU7DT5E
 - Complete the "Hello, World" tutorial: https://guides.github.com/activities/hello-world/
 - Read the "Understanding the GitHub Flow" guide: https://guides.github.com/introduction/flow/
-- Take the "Introduction to GitHub" free course: https://lab.github.com/githubtraining/introduction-to-github
-- Make your first contribution: https://github.com/firstcontributions/first-contributions
 
 **Day 7: Rest and Reflect** 
 
 Now that you have a basic understanding of the field, it's time to self-evaluate. Complete the "Is technical writing the right career for you" worksheet.
 
-## Week 2: Learn types of tech docs and write a UI docs tutorial
+## Week 2: Activity: Write your first tutorial + Introduction to Style Guides
 
-**Day 8: "Types of tech docs" (https://documentation.divio.com/)**
+**Day 8: Make your first GitHub contribution**
 
-**Day 9: UI docs/tutorial: Draft a tutorial to create a pull request using the GitHub UI**
+- Take the "Introduction to GitHub" free course: https://lab.github.com/githubtraining/introduction-to-github
+- Make your first contribution: https://github.com/firstcontributions/first-contributions
 
-**Day 10 and 11: Study the following parts of the Microsoft Style Guide:**
+This step can be a bit daunting, so take your time with it. Also make a note of how you feel as you work through the course and your first contribution. Do you feel excited, anxious, or dreadful? This can be a very good indication of your comfort with learning new tech. A little apprehension when encountering a new piece of technology is expected, and that's something you'll have to deal with quite routinely as a tech writer. What matters is not letting the apprehension stop you -- look for more resources, google terms you are unfamiliar with, ask informed questions after you have done your self-study. 
+
+**Day 9: Figure out the procedure to create a pull request using the GitHub UI and outline a tutorial for the procedure
+
+The procedure you followed on Day 8 was to create a pull request using the command line. Now figure out how you'd have made the pull request using the GitHub in-browser UI instead. Remember, Google's your friend. 
+
+Once you figure out the procedure, outline a tutorial for new contributors to make their first pull request to the [First Contributions repository](https://github.com/firstcontributions/first-contributions) using the GitHub UI instead of the command line.
+
+**Day 10: Audience Analysis**
+
+Complete the [Audience Analysis worksheet](https://youtu.be/TXisTiNAWyE) for the tutorial you outlined on Day 9. 
+Based on your answers, [write the first draft](https://youtu.be/MHOH2kgXfDc) for the tutorial.
+
+**Day 11 and 12: Study the Microsoft Style Guide:**
+
+[Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) help tech writers make consistent writing choices across documents. For new tech writers, I recommend the [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/). 
+
+On Days 11 and 12, go through the following subsections of the Microsoft Writing Style Guide:
 
 - [https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human)
 - [https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
@@ -94,8 +114,6 @@ Now that you have a basic understanding of the field, it's time to self-evaluate
 - All pages in [https://docs.microsoft.com/en-us/style-guide/punctuation/](https://docs.microsoft.com/en-us/style-guide/punctuation/)
 - All pages in [https://docs.microsoft.com/en-us/style-guide/scannable-content/](https://docs.microsoft.com/en-us/style-guide/scannable-content/)
 - All pages in [https://docs.microsoft.com/en-us/style-guide/word-choice/](https://docs.microsoft.com/en-us/style-guide/word-choice/)
-
-**Day 12: Audience Analysis**
 
 **Day 13: Edit your tutorial using the Microsoft style guide**
 
