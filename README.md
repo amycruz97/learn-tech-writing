@@ -78,7 +78,7 @@ To get started with GitHub:
 
 Now that you have a basic understanding of the field, it's time to self-evaluate. Complete the "Is technical writing the right career for you" worksheet.
 
-## Week 2: Activity: Write your first tutorial + Introduction to Style Guides
+## Week 2: Writing a tutorial + Introduction to Style Guides
 
 **Day 8: Make your first GitHub contribution**
 
@@ -87,7 +87,7 @@ Now that you have a basic understanding of the field, it's time to self-evaluate
 
 This step can be a bit daunting, so take your time with it. Also make a note of how you feel as you work through the course and your first contribution. Do you feel excited, anxious, or dreadful? This can be a very good indication of your comfort with learning new tech. A little apprehension when encountering a new piece of technology is expected, and that's something you'll have to deal with quite routinely as a tech writer. What matters is not letting the apprehension stop you -- look for more resources, google terms you are unfamiliar with, ask informed questions after you have done your self-study. 
 
-**Day 9: Figure out the procedure to create a pull request using the GitHub UI and outline a tutorial for the procedure
+**Day 9: Figure out the procedure to create a pull request using the GitHub UI and outline a tutorial for the procedure**
 
 The procedure you followed on Day 8 was to create a pull request using the command line. Now figure out how you'd have made the pull request using the GitHub in-browser UI instead. Remember, Google's your friend. 
 
@@ -97,10 +97,11 @@ Once you figure out the procedure, outline a tutorial for new contributors to ma
 
 Complete the [Audience Analysis worksheet](https://youtu.be/TXisTiNAWyE) for the tutorial you outlined on Day 9. 
 Based on your answers, [write the first draft](https://youtu.be/MHOH2kgXfDc) for the tutorial.
+If you need a refresher on what's a tutorial, refer to [Divio's article on the topic](https://documentation.divio.com/tutorials/).
 
 **Day 11 and 12: Study the Microsoft Style Guide:**
 
-[Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) help tech writers make consistent writing choices across documents. For new tech writers, I recommend the [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/). 
+[Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) help tech writers make consistent writing choices across documents. For new tech writers, I recommend starting with the [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/). 
 
 On Days 11 and 12, go through the following subsections of the Microsoft Writing Style Guide:
 
@@ -118,11 +119,18 @@ On Days 11 and 12, go through the following subsections of the Microsoft Writing
 **Day 14: Rest and Reflect:** 
 Process part of self-assessment from Good with Words (https://www.fulcrum.org/epubs/bz60cx60t?locale=en#/6/38[mup-mpsbarry-0019]!/4/2[appa]/2/6/1:0)
 
-## Week 3: Write developer docs/how-to guide
+## Week 3: Writing how-to guides and reference documents
 
-**Day 15: Developer docs/How-to guide: Draft a how-to guide to create a pull request using the command line**
+**Day 15: Draft a how-to guide to create a pull request**
 
-**Day 16: Study the following style guides:** 
+If you need a refresher on the difference between a tutorial and a how-to guide, [read Divio's article on the topic](https://documentation.divio.com/how-to-guides/).
+
+As the article states, how-to guides "assume some knowledge and understanding". For this activity, you can assume that the reader has already followed the tutorial to create a pull request to the First Contributors repository. Now write a how-to guide to help them make a pull request to *any* repository. 
+
+**Day 16: Study the DigitalOcean and Google style guides:** 
+
+Let's expand our repertoire of style guides. Study the following style guides:
+
 - [https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 - All pages after [https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
 - [https://developers.google.com/style/procedures](https://developers.google.com/style/procedures)
@@ -130,9 +138,31 @@ Process part of self-assessment from Good with Words (https://www.fulcrum.org/ep
 
 **Day 17: Edit your how-to guide using the style guides**
 
-**Day 18: Concept doc: Draft an article about pull requests**
+**Day 18: Draft a reference document about the commands to create a pull request**
 
-**Day 19: Study the following parts of the Google developer documentation style guide**
+If you need a refresher on reference docs, [read Divio's article on the topic](https://documentation.divio.com/reference/).
+
+Draft a reference document about the commands required to create a pull request.
+
+**Day 19: Study the following parts of the Microsoft Style Guide:**
+
+https://docs.microsoft.com/en-us/style-guide/developer-content/reference-documentation
+
+**Day 20: Edit the reference doc using the Microsoft Writing Style Guide** 
+
+**Day 21: Rest and Reflect: Errors and Insights exercise from Good with Words**
+
+## Week 4: Writing explanation documents
+
+**Day 22: Draft an explanation article about pull request**
+
+If you need a refresher on explanation docs, [read Divio's article on the topic](https://documentation.divio.com/explanation/).
+
+Draft an explanation article on "what are pull requests" for beginners.
+
+**Day 23 and 24: Study the following parts of the Google developer documentation style guide**
+
+Let's dive further into the Google developer documentation style guide:
 
 - [https://developers.google.com/style/tone](https://developers.google.com/style/tone)
 - All pages in Language and Grammar
@@ -141,21 +171,7 @@ Process part of self-assessment from Good with Words (https://www.fulcrum.org/ep
 - [https://developers.google.com/style/lists](https://developers.google.com/style/lists)
 - [https://developers.google.com/style/notices](https://developers.google.com/style/notices)
 
-**Day 20: Edit the concept doc using the Google developer documentation style guide** 
-
-**Day 21: Rest and Reflect: Errors and Insights exercise from Good with Words**
-
-## Week 4: Write a reference doc + study the Microsoft Style Guide
-
-**Day 22: Reference doc: Draft an article about the commands required to create a pull request**
-
-**Day 23: Study the following parts of the Microsoft Style Guide:**
-
-https://docs.microsoft.com/en-us/style-guide/developer-content/reference-documentation
-
-**Day 24: Audience analysis**
-
-**Day 25: Edit the reference doc using Microsoft Style Guide**
+**Day 25: Edit the explanation doc using the Google developer documentation style guide**
 
 **Day 26: Bias-free, accessible, global writing**
 
