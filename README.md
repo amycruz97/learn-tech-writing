@@ -39,12 +39,10 @@ Complete the [first course ("Technical Writing One")](https://developers.google.
 
 Watch the "How to write a technical document" series on my YouTube channel. 
 
-Resource Type | Resource 
-:-- | :--
-Video | [Prewriting + Working with Subject Matter Experts](https://youtu.be/urOLNxRm2KM) 
-Video | [Audience Analysis Worksheet](https://youtu.be/TXisTiNAWyE)  
-Video | [Writing the First Draft](https://youtu.be/MHOH2kgXfDc)
-Video | [Technical Editing Checklist](https://youtu.be/vpl8WaXnmMs)
+- [Prewriting + Working with Subject Matter Experts](https://youtu.be/urOLNxRm2KM) 
+- [Audience Analysis Worksheet](https://youtu.be/TXisTiNAWyE)  
+- [Writing the First Draft](https://youtu.be/MHOH2kgXfDc)
+- [Technical Editing Checklist](https://youtu.be/vpl8WaXnmMs)
 
 I know it's a lot of information but you don't have to retain all of it. You will have opportunities to revisit and practice the techniques as you work through the self-study plan.
 
