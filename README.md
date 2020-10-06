@@ -1,6 +1,6 @@
-# A Self-Study Plan to Learn Tech Writing
+# A Self-Study Guide to Learn Tech Writing
 
-If you want to become a tech writer, you need to write tech docs! However, it's difficult to figure out how to get started, what you need to learn, and what resources to use. So I put together this project-based self-study plan to help you: 
+If you want to become a tech writer, you need to write tech docs! However, it's difficult to figure out how to get started, what you need to learn, and what resources to use. So I put together this project-based self-study guide to help you: 
 
 - Learn what's tech writing and the tech writing process
 - Learn about common types of tech docs in the software industry
@@ -8,27 +8,27 @@ If you want to become a tech writer, you need to write tech docs! However, it's 
 - Create 4 tech writing samples for your portfolio
 - Learn and use GitHub 
 
-If you are a curious about tech writing as a career or a new tech writer, this plan is for you. 
+If you are a curious about tech writing as a career or a new tech writer, this guide is for you. 
 
-Before we get into the plan, let's answer some frequently asked questions:
+Before we get to the guide, let's answer some frequently asked questions:
 
 **Who are you?**
 
 👋🏽  I am Amruta Ranade, the Staff Tech Writer at a distributed database startup in New York City. I have a Bachelor's degree in Electronics and a Master's degree in Technical Communication. And I [make YouTube videos about tech writing](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA). 
 
-**Do I need to complete the plan in 30 days?**
+**Do I need to complete all the material in this guide in 30 days?**
 
-Nope. The suggested timeline assumes you can spend 1-2 hours per day for 30 days. Don't feel compelled to stick to the timeline. This is meant to be a self-paced plan -- make it work for your schedule as you see fit.
+Nope. The suggested timeline assumes you can spend 1-2 hours per day for 30 days. Don't feel compelled to stick to the timeline. This is meant to be a self-paced guide -- make it work for your schedule as you see fit.
 
-**Will I get a certificate on completing the plan?**
+**Will I get a certificate on completing the material in this guide?**
 
 Nope. What you will have is a portfolio of your writing samples. In my experience, a portfolio matters more than a certificate while applying for tech writing jobs.
 
 **Will you review my documents/provide feedback/mentor me?**
 
-Unfortunately, my full-time job and personal responsibilities don't allow me the bandwidth to review your documents, provide feedback, or offer 1:1 mentorship. In fact, the reason I created the plan is to provide a useful resource in response to the frequent requests for mentorship and tech writing courses.
+Unfortunately, my full-time job and personal responsibilities don't allow me the bandwidth to review your documents, provide feedback, or offer 1:1 mentorship. 
 
-Now that FAQs and introductions are out of the way, let's get to the plan!
+Now that FAQs and introductions are out of the way, let's get to the guide!
 
 ## Week 1: What is Tech Writing + Beginner FAQs + Tech Writing Process + Introduction to GitHub
 
@@ -56,7 +56,7 @@ Watch the "How to write a technical document" series on my YouTube channel.
 - [Writing the First Draft](https://youtu.be/MHOH2kgXfDc)
 - [Technical Editing Checklist](https://youtu.be/vpl8WaXnmMs)
 
-I know it's a lot of information but you don't have to retain all of it. You will have opportunities to revisit and practice the techniques as you work through the self-study plan.
+I know it's a lot of information but you don't have to retain all of it. You will have opportunities to revisit and practice the techniques as you work through the self-study guide.
 
 **Day 4: Complete Google's "Technical Writing Two" course**
 
@@ -218,13 +218,13 @@ Let's dive further into the Google developer documentation style guide:
 
 **Day 30: Celebrate!!**
 
-Congratulations on completing the plan! Take some time to celebrate - you've earned it :)
+Congratulations on completing the self-study guide! Take some time to celebrate - you've earned it :)
 
 **Next steps: Explore niche genres of tech writing**
 
 - Watch "Getting Started with UX Writing and Microcopy"
 - Consider taking Tom Johnson's [API documentation course](https://idratherbewriting.com/learnapidoc/)
 
-Hope this plan was helpful! For more tech writing tips and techniques, join [my tech writing newsletter](https://techwriting.ck.page/newsletter)! 
+Hope this guide was helpful! For more tech writing tips and techniques, join [my tech writing newsletter](https://techwriting.ck.page/newsletter)! 
 
 Happy writing!
