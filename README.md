@@ -126,7 +126,7 @@ On Days 11 and 12, go through the following subsections of the Microsoft Writing
 - All pages in the [Scannable content](https://docs.microsoft.com/en-us/style-guide/scannable-content/) section
 - All pages in the [Word choice](https://docs.microsoft.com/en-us/style-guide/word-choice/) section
 
-**Day 13: Edit your tutorial using the Microsoft style guide**
+**Day 13: Edit your tutorial using the Microsoft Writing Style Guide**
 
 *Amruta's To-Do: Demo*
 
