@@ -10,13 +10,25 @@ If you want to become a tech writer, you need to write tech docs! However, it's 
 
 If you are a curious about tech writing as a career or a new tech writer, this plan is for you. 
 
-Note: The suggested timeline assumes you can spend 1-2 hours per day for 30 days. Don't feel compelled to stick to the timeline. This is meant to be a self-paced plan -- make it work for your schedule as you see fit.
+Before we get into the plan, let's answer some frequently asked questions:
 
-### Who am I?
+**Who are you?**
 
-I am Amruta Ranade, the Staff Tech Writer at a distributed database startup in New York City. I have a Bachelor's degree in Electronics and a Master's degree in Technical Communication. And I [make YouTube videos about tech writing](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA). 
+👋🏽 I am Amruta Ranade, the Staff Tech Writer at a distributed database startup in New York City. I have a Bachelor's degree in Electronics and a Master's degree in Technical Communication. And I [make YouTube videos about tech writing](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA). 
 
-Now that introductions are out of the way, let's get to the plan!
+**Do I need to complete the plan in 30 days?**
+
+Nope. The suggested timeline assumes you can spend 1-2 hours per day for 30 days. Don't feel compelled to stick to the timeline. This is meant to be a self-paced plan -- make it work for your schedule as you see fit.
+
+**Will I get a certificate on completing the plan?**
+
+Nope. What you will have is a portfolio of your writing samples. In my experience, a portfolio matters more than a certificate while applying for tech writing jobs.
+
+**Will you review my documents/provide feedback/mentor me?**
+
+Unfortunately, my full-time job and personal responsibilities don't allow me the bandwidth to review your documents, provide feedback, or offer 1:1 mentorship. In fact, the reason I created the plan is to provide a useful resource in response to the frequent requests for mentorship and tech writing courses.
+
+Now that FAQs and introductions are out of the way, let's get to the plan!
 
 ## Week 1: What is Tech Writing + Beginner FAQs + Tech Writing Process + Introduction to GitHub
 
