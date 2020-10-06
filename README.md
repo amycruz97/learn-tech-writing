@@ -144,9 +144,9 @@ As the article states, how-to guides "assume some knowledge and understanding". 
 
 Let's expand our repertoire of style guides. Study the following style guides:
 
-- [Google developer documentation guidelines' "Procedures" page](https://developers.google.com/style/procedures)
-- [Google developer documentation guidelines' "Code syntax" page](https://developers.google.com/style/code-syntax)
-- All pages in Microsoft Writing Style Guide's [Procedures and instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/) section 
+- [The "Procedures" page in Google developer documentation guidelines](https://developers.google.com/style/procedures)
+- [The "Code syntax" page in Google developer documentation guidelines](https://developers.google.com/style/code-syntax)
+- All pages in the [Procedures and instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/) section of the Microsoft Writing Style Guide
 
 **Day 17: Edit your how-to guide using the style guides**
 
@@ -224,6 +224,6 @@ Congratulations on completing the self-study guide! Take some time to celebrate 
 - Watch "Getting Started with UX Writing and Microcopy"
 - Consider taking Tom Johnson's [API documentation course](https://idratherbewriting.com/learnapidoc/)
 
-Hope this guide was helpful! For more tech writing tips and techniques, join [my tech writing newsletter](https://techwriting.ck.page/newsletter)! 
+Hope this guide was helpful! For more tech writing tips and techniques, join [my tech writing newsletter](https://techwriting.ck.page/newsletter). 
 
-Happy writing!
+Happy writing 😊
