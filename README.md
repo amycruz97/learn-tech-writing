@@ -62,7 +62,7 @@ I know it's a lot of information but you don't have to retain all of it. You wil
 
 Complete the [second course offered by Google ("Technical Writing Two")](https://developers.google.com/tech-writing/two) that builds on the first course.
 
-**Day 5: Learn about Divio's documentation system
+**Day 5: Learn about Divio's documentation system**
 
 One of my favorite tech writing resources is [Divio's documentation system](https://documentation.divio.com/). I recommend carefully studying all the sections of the system to develop helpful mental models for your technical documents.
 
