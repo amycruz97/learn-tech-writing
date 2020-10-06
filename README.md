@@ -133,7 +133,7 @@ On Days 11 and 12, go through the following subsections of the Microsoft Writing
 **Day 14: Rest and Reflect:** 
 Process part of self-assessment from Good with Words (https://www.fulcrum.org/epubs/bz60cx60t?locale=en#/6/38[mup-mpsbarry-0019]!/4/2[appa]/2/6/1:0)
 
-## Week 3: Writing how-to guides and reference documents
+## Week 3: Writing a how-to guide and a reference document
 
 **Day 15: Draft a how-to guide to create a pull request**
 
@@ -141,7 +141,7 @@ If you need a refresher on the difference between a tutorial and a how-to guide,
 
 As the article states, how-to guides "assume some knowledge and understanding". For this activity, you can assume that the reader has already followed the tutorial to create a pull request to the First Contributors repository. Now write a how-to guide to help them make a pull request to *any* repository. 
 
-**Day 16: Study the DigitalOcean and Google style guides:** 
+**Day 16: Study DigitalOcean and Google developer documentation style guides** 
 
 Let's expand our repertoire of style guides. Study the following style guides:
 
