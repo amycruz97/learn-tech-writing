@@ -169,7 +169,7 @@ Draft a reference document about the commands required to create a pull request.
 
 **Day 21: Rest and Reflect: Errors and Insights exercise from Good with Words**
 
-## Week 4: Writing explanation documents
+## Week 4: Writing an explanation document
 
 **Day 22: Draft an explanation article about pull request**
 
