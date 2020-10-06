@@ -14,7 +14,7 @@ Before we get into the plan, let's answer some frequently asked questions:
 
 **Who are you?**
 
-👋🏽 I am Amruta Ranade, the Staff Tech Writer at a distributed database startup in New York City. I have a Bachelor's degree in Electronics and a Master's degree in Technical Communication. And I [make YouTube videos about tech writing](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA). 
+👋🏽  I am Amruta Ranade, the Staff Tech Writer at a distributed database startup in New York City. I have a Bachelor's degree in Electronics and a Master's degree in Technical Communication. And I [make YouTube videos about tech writing](https://www.youtube.com/channel/UCKsaZMjb3lsLe5YtasDifuA). 
 
 **Do I need to complete the plan in 30 days?**
 
