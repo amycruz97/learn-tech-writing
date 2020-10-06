@@ -121,7 +121,6 @@ On Days 11 and 12, go through the following subsections of the Microsoft Writing
 - [Top 10 tips for Microsoft style and voice](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
 - [Final publishing review](https://docs.microsoft.com/en-us/style-guide/final-publishing-review)
 - All pages in the [Grammar and parts of speech](https://docs.microsoft.com/en-us/style-guide/grammar/grammar-and-parts-of-speech) section
-- All pages in the [Procedures and instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/) section
 - All pages in the [Punctuation](https://docs.microsoft.com/en-us/style-guide/punctuation/) section
 - All pages in the [Scannable content](https://docs.microsoft.com/en-us/style-guide/scannable-content/) section
 - All pages in the [Word choice](https://docs.microsoft.com/en-us/style-guide/word-choice/) section
@@ -145,9 +144,9 @@ As the article states, how-to guides "assume some knowledge and understanding". 
 
 Let's expand our repertoire of style guides. Study the following style guides:
 
-- [DigitalOcean's Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 - [Google developer documentation guidelines' "Procedures" page](https://developers.google.com/style/procedures)
 - [Google developer documentation guidelines' "Code syntax" page](https://developers.google.com/style/code-syntax)
+- All pages in Microsoft Writing Style Guide's [Procedures and instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/) section 
 
 **Day 17: Edit your how-to guide using the style guides**
 
