@@ -3,14 +3,14 @@
 If you want to become a tech writer, you need to write tech docs! However, it's difficult to figure out how to get started, what you need to learn, and what resources to use. So I put together this project-based self-study plan to help you: 
 
 - Learn what's tech writing and the tech writing process
-- Learn the common tech documents in the software industry (UI docs, user docs, developer docs)(documentation framework)
+- Learn about common types of tech docs in the software industry
 - Familiarize yourself with industry-standard style guides
 - Create 4 tech writing samples for your portfolio
-- Use GitHub and Markdown
-
-**Estimated time required: 4 weeks (1-2 hours per day)**
+- Learn and use GitHub 
 
 If you are a curious about tech writing as a career or a new tech writer, this plan is for you. 
+
+Note: The suggested timeline assumes you can spend 1-2 hours per day for 30 days. Don't feel compelled to stick to the timeline. This is meant to be a self-paced plan -- make it work for your schedule as you see fit.
 
 ### Who am I?
 
@@ -179,7 +179,20 @@ Let's dive further into the Google developer documentation style guide:
 
 **Day 28: Rest and Reflect: Career goals section of "Is Technical Writing the Right Career for You? 🤔" worksheet**
 
-**Day 29: Watch "Getting Started with UX Writing and Microcopy"**
+**Day 29: Explore tech writing communities**
 
-**Day 30:**
+- Check out the [technical writing subreddit](https://www.reddit.com/r/technicalwriting/)
+- Join the [Write the Docs Slack](https://www.writethedocs.org/slack/)
 
+**Day 30: Celebrate!!**
+
+Congratulations on completing the plan! Take some time to celebrate - you've earned it :)
+
+**Next steps: Explore niche genres of tech writing**
+
+- Watch "Getting Started with UX Writing and Microcopy"
+- Consider taking Tom Johnson's [API documentation course](https://idratherbewriting.com/learnapidoc/)
+
+Hope this plan was helpful! For more tech writing tips and techniques, join [my tech writing newsletter](https://techwriting.ck.page/newsletter)! 
+
+Happy writing!
