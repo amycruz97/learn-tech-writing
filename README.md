@@ -80,11 +80,11 @@ Now comes the slightly daunting step: Learning Git and GitHub. Here's why I thin
 - It opens up the world of open source software
 
 To get started with GitHub:
-- Watch "What is Git - A Quick Introduction to the Git Version Control System": https://youtu.be/OqmSzXDrJBk
-- Watch "What is Git and GitHub?": https://youtu.be/uUuTYDg9XoI
-- Watch the "What is GitHub?" video: https://youtu.be/w3jLJU7DT5E
-- Complete the "Hello, World" tutorial: https://guides.github.com/activities/hello-world/
-- Read the "Understanding the GitHub Flow" guide: https://guides.github.com/introduction/flow/
+- Watch [What is Git - A Quick Introduction to the Git Version Control System](https://youtu.be/OqmSzXDrJBk)
+- Watch [What is Git and GitHub?](https://youtu.be/uUuTYDg9XoI)
+- Watch [What is GitHub?](https://youtu.be/w3jLJU7DT5E)
+- Complete the ["Hello, World" tutorial](https://guides.github.com/activities/hello-world/)
+- Read the ["Understanding the GitHub Flow" guide](https://guides.github.com/introduction/flow/)
 
 **Day 7: Rest and Reflect** 
 
@@ -94,7 +94,7 @@ Now that you have a basic understanding of the field, it's time to self-evaluate
 
 **Day 8: Make your first GitHub contribution**
 
-- Take the "Introduction to GitHub" free course: https://lab.github.com/githubtraining/introduction-to-github
+- Take the ["Introduction to GitHub" free course](https://lab.github.com/githubtraining/introduction-to-github)
 - Make your first contribution: https://github.com/firstcontributions/first-contributions
 
 This step can be a bit daunting, so take your time with it. Also make a note of how you feel as you work through the course and your first contribution. Do you feel excited, anxious, or dreadful? This can be a very good indication of your comfort with learning new tech. A little apprehension when encountering a new piece of technology is expected, and that's something you'll have to deal with quite routinely as a tech writer. What matters is not letting the apprehension stop you -- look for more resources, google terms you are unfamiliar with, ask informed questions after you have done your self-study. 
@@ -117,16 +117,18 @@ If you need a refresher on what's a tutorial, refer to [Divio's article on the t
 
 On Days 11 and 12, go through the following subsections of the Microsoft Writing Style Guide:
 
-- [https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human)
-- [https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
-- [https://docs.microsoft.com/en-us/style-guide/final-publishing-review](https://docs.microsoft.com/en-us/style-guide/final-publishing-review)
-- All pages in [https://docs.microsoft.com/en-us/style-guide/grammar/grammar-and-parts-of-speech](https://docs.microsoft.com/en-us/style-guide/grammar/grammar-and-parts-of-speech)
-- All pages after [https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
-- All pages in [https://docs.microsoft.com/en-us/style-guide/punctuation/](https://docs.microsoft.com/en-us/style-guide/punctuation/)
-- All pages in [https://docs.microsoft.com/en-us/style-guide/scannable-content/](https://docs.microsoft.com/en-us/style-guide/scannable-content/)
-- All pages in [https://docs.microsoft.com/en-us/style-guide/word-choice/](https://docs.microsoft.com/en-us/style-guide/word-choice/)
+- [Microsoft's brand voice: Above all, simple and human](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human)
+- [Top 10 tips for Microsoft style and voice](https://docs.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
+- [Final publishing review](https://docs.microsoft.com/en-us/style-guide/final-publishing-review)
+- All pages in the [Grammar and parts of speech](https://docs.microsoft.com/en-us/style-guide/grammar/grammar-and-parts-of-speech) section
+- All pages in the [Procedures and instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/) section
+- All pages in the [Punctuation](https://docs.microsoft.com/en-us/style-guide/punctuation/) section
+- All pages in the [Scannable content](https://docs.microsoft.com/en-us/style-guide/scannable-content/) section
+- All pages in the [Word choice](https://docs.microsoft.com/en-us/style-guide/word-choice/) section
 
 **Day 13: Edit your tutorial using the Microsoft style guide**
+
+*Amruta's To-Do: Demo*
 
 **Day 14: Rest and Reflect:** 
 Process part of self-assessment from Good with Words (https://www.fulcrum.org/epubs/bz60cx60t?locale=en#/6/38[mup-mpsbarry-0019]!/4/2[appa]/2/6/1:0)
@@ -143,12 +145,13 @@ As the article states, how-to guides "assume some knowledge and understanding". 
 
 Let's expand our repertoire of style guides. Study the following style guides:
 
-- [https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
-- All pages after [https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
-- [https://developers.google.com/style/procedures](https://developers.google.com/style/procedures)
-- [https://developers.google.com/style/code-syntax](https://developers.google.com/style/code-syntax)
+- [DigitalOcean's Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
+- [Google developer documentation guidelines' "Procedures" page](https://developers.google.com/style/procedures)
+- [Google developer documentation guidelines' "Code syntax" page](https://developers.google.com/style/code-syntax)
 
 **Day 17: Edit your how-to guide using the style guides**
+
+*Amruta's To-Do: Demo*
 
 **Day 18: Draft a reference document about the commands to create a pull request**
 
@@ -156,11 +159,13 @@ If you need a refresher on reference docs, [read Divio's article on the topic](h
 
 Draft a reference document about the commands required to create a pull request.
 
-**Day 19: Study the following parts of the Microsoft Style Guide:**
+**Day 19: Study the Microsoft Style Guide:**
 
-https://docs.microsoft.com/en-us/style-guide/developer-content/reference-documentation
+[Reference document](https://docs.microsoft.com/en-us/style-guide/developer-content/reference-documentation)
 
 **Day 20: Edit the reference doc using the Microsoft Writing Style Guide** 
+
+*Amruta's To-Do: Demo*
 
 **Day 21: Rest and Reflect: Errors and Insights exercise from Good with Words**
 
@@ -172,22 +177,37 @@ If you need a refresher on explanation docs, [read Divio's article on the topic]
 
 Draft an explanation article on "what are pull requests" for beginners.
 
-**Day 23 and 24: Study the following parts of the Google developer documentation style guide**
+**Day 23 and 24: Study the Google developer documentation style guide**
 
 Let's dive further into the Google developer documentation style guide:
 
-- [https://developers.google.com/style/tone](https://developers.google.com/style/tone)
-- All pages in Language and Grammar
-- All pages in Punctuation
-- [https://developers.google.com/style/headings](https://developers.google.com/style/headings)
-- [https://developers.google.com/style/lists](https://developers.google.com/style/lists)
-- [https://developers.google.com/style/notices](https://developers.google.com/style/notices)
+- [Tone](https://developers.google.com/style/tone)
+- [Headings](https://developers.google.com/style/headings)
+- [Lists](https://developers.google.com/style/lists)
+- [Notices](https://developers.google.com/style/notices)
+- All pages in the "Language and Grammar" section
+- All pages in the "Punctuation" section
 
 **Day 25: Edit the explanation doc using the Google developer documentation style guide**
 
-**Day 26: Bias-free, accessible, global writing**
+*Amruta's To-Do: Demo*
 
-**Day 27: Watch "Technical Writing for Non-Native English Speakers"**
+**Day 26: Study resources for bias-free and accessible writing**
+
+*Resources for writing bias-free docs:*
+- Watch [Examining Unconscious Biases in My Writing](https://youtu.be/w-zTssredxA)
+- Study [Google's guidelines for inclusive documentation](https://developers.google.com/style/inclusive-documentation)
+- Study [Microsoft's guidelines for bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+
+*Resources for writing accessible docs:*
+- Study [Google's guidelines for accessible documentation](https://developers.google.com/style/accessibility)
+- Study [Microsoft's guidelines for accessible communication](https://docs.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements)
+
+**Day 27: Study resources for global writing**
+
+- Watch [Technical Writing for Non-Native English Speakers](https://youtu.be/J-HvCPaCLj0)
+- Study [Google's guidelines for global documentation](https://developers.google.com/style/translation)
+- Study [Microsoft's guidelines for global communications](https://docs.microsoft.com/en-us/style-guide/global-communications/)
 
 **Day 28: Rest and Reflect: Career goals section of "Is Technical Writing the Right Career for You? 🤔" worksheet**
 
